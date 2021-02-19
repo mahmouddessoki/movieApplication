@@ -1,5 +1,26 @@
-{"data":[{"vid":3,"vname":"insert key","vURL":"Insert Key_Trim.mp4"},
-         {"vid":2,"vname":"directory","vURL":"https://drive.google.com/file/d/18eMqRu2dGiKluogDX7wc9-t1nLeN3PvQ/view?usp=sharing"},
-         {"vid":1,"vname":"main directory","vURL":"Main Directory_Trim.mp4"},
-         
-         {"vid":4,"vname":"home key","vURL":"https://drive.google.com/file/d/192DF2SSqa0qE5JUrMJ5vBkb3NFHvZQpT/view?usp=sharing"},{"vid":5,"vname":"file","vURL":"https://drive.google.com/file/d/190PeBaPhQCt88W_kTQ65tJbbRoUQ3ynR/view?usp=sharing"},{"vid":6,"vname":"f1..f12 keys","vURL":"https://drive.google.com/file/d/18oocBXWnyvYFSf7v7ZonQXb0gUTEOJuw/view?usp=sharing"},{"vid":7,"vname":"enter key","vURL":"https://drive.google.com/file/d/18laCBdRx_9hcGTDr8XnZ8Ps7zNqJVMoV/view?usp=sharing"},{"vid":8,"vname":"end key","vURL":"https://drive.google.com/file/d/18hOJ9h_GApa1EIuZ1_RqsuwWBajVhnf2/view?usp=sharing"},{"vid":9,"vname":"control key","vURL":"https://drive.google.com/file/d/18QhjmOm0JDrwtc4m5ynArkLNLLVSgu-_/view?usp=sharing"},{"vid":10,"vname":"arrows keys","vURL":"https://drive.google.com/file/d/18QA_y6prNbCtnvW_w71NnEKkEfq8CVwC/view?usp=sharing"}]}
+{"data":[
+{"vid":1,"vname":"Alt Key","vURL":"Alt Key_Trim.mp4"},
+{"vid":2,"vname":"Arrows Keys","vURL":"Arrows Keys_Trim.mp4"},
+{"vid":3,"vname":"Back Space Key","vURL":"Back Space Key_Trim.mp4"},
+{"vid":4,"vname":"Control Key","vURL":"Control Key_Trim.mp4"},
+{"vid":5,"vname":"Delete Key","vURL":"Delete Key_Trim.mp4"},
+{"vid":6,"vname":"Directory","vURL":"Directory_Trim.mp4"},
+{"vid":7,"vname":"End Key","vURL":"End Key_Trim.mp4"},
+{"vid":8,"vname":"Enter Key","vURL":"Enter Key_Trim.mp4"},
+{"vid":9,"vname":"F1...F12 Keys","vURL":"F1...F12 Keys_Trim.mp4"},
+{"vid":10,"vname":"File","vURL":"File_Trim.mp4"},
+{"vid":11,"vname":"Home Key","vURL":"Home Key_Trim.mp4"},
+{"vid":12,"vname":"Insert Key","vURL":"Insert Key_Trim.mp4"},
+{"vid":13,"vname":"Main Directory","vURL":"Main Directory_Trim.mp4"},
+{"vid":14,"vname":"Num Lock Key","vURL":"Num Lock Key_Trim.mp4"},
+{"vid":15,"vname":"Over Key","vURL":"Over Key_Trim.mp4"},
+{"vid":16,"vname":"Page Up Key","vURL":"Page Up Key_Trim.mp4"},
+{"vid":17,"vname":"Page down Key","vURL":"Page down Key_Trim.mp4"},
+{"vid":18,"vname":"Pause Key","vURL":"Pause Key_Trim.mp4"},
+{"vid":19,"vname":"Primary Directory","vURL":"Primary Directory_Trim.mp4"},
+{"vid":20,"vname":"Program","vURL":"Program_Trim.mp4"},
+{"vid":21,"vname":"Space Bar","vURL":"Space Bar_Trim.mp4"},
+{"vid":22,"vname":"Tab Key","vURL":"Tab Key_Trim.mp4"}
+]}
+
+
